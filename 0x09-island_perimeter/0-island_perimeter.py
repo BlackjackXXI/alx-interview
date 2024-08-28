@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-import math
 """
 This module contains the class definition for a Rectangle object
 """
